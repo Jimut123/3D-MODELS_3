@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 8341cee74d8f4714893a49b5965a470e
+timeCreated: 1483266301
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mi-8_
+    100004: Mi-8_01
+    100006: Mi-8_02
+    100008: Mi-8_03
+    100010: Mi-8_04
+    100012: Mi-8_05
+    100014: Mi-8_06
+    100016: Mi-8_07
+    100018: Mi-8_08
+    100020: Mi-8_09
+    100022: Mi-8_10
+    100024: Mi-8_11
+    100026: Mi-8_12
+    400000: //RootNode
+    400002: Mi-8_
+    400004: Mi-8_01
+    400006: Mi-8_02
+    400008: Mi-8_03
+    400010: Mi-8_04
+    400012: Mi-8_05
+    400014: Mi-8_06
+    400016: Mi-8_07
+    400018: Mi-8_08
+    400020: Mi-8_09
+    400022: Mi-8_10
+    400024: Mi-8_11
+    400026: Mi-8_12
+    2300000: Mi-8_
+    2300002: Mi-8_01
+    2300004: Mi-8_02
+    2300006: Mi-8_03
+    2300008: Mi-8_04
+    2300010: Mi-8_05
+    2300012: Mi-8_06
+    2300014: Mi-8_07
+    2300016: Mi-8_08
+    2300018: Mi-8_09
+    2300020: Mi-8_10
+    2300022: Mi-8_11
+    2300024: Mi-8_12
+    3300000: Mi-8_
+    3300002: Mi-8_01
+    3300004: Mi-8_02
+    3300006: Mi-8_03
+    3300008: Mi-8_04
+    3300010: Mi-8_05
+    3300012: Mi-8_06
+    3300014: Mi-8_07
+    3300016: Mi-8_08
+    3300018: Mi-8_09
+    3300020: Mi-8_10
+    3300022: Mi-8_11
+    3300024: Mi-8_12
+    4300000: Mi-8_
+    4300002: Mi-8_01
+    4300004: Mi-8_02
+    4300006: Mi-8_03
+    4300008: Mi-8_04
+    4300010: Mi-8_05
+    4300012: Mi-8_06
+    4300014: Mi-8_07
+    4300016: Mi-8_08
+    4300018: Mi-8_09
+    4300020: Mi-8_10
+    4300022: Mi-8_11
+    4300024: Mi-8_12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
