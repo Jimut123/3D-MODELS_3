@@ -1,0 +1,180 @@
+newmtl Model001_Material001
+map_Kd Yorktown_paint6.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material002
+map_Kd diff_null_7.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material003
+map_Kd diff_null_14.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material004
+map_Kd diff_null_Color005.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material005
+map_Kd diff_null_8.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material006
+map_Kd diff_null_Color007.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material007
+map_Kd diff_null_17.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material008
+map_Kd diff_null_FrontColor.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material009
+map_Kd diff_null_BackColor.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material010
+map_Kd diff_null_4.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material011
+map_Kd Color_004.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material012
+map_Kd diff_null_Gray1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material013
+map_Kd diff_null_3.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material014
+map_Kd Metal_Rough.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material015
+map_Kd diff_null_12.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material016
+map_Kd diff_null_19.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material017
+map_Kd diff_null_Color003.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material018
+map_Kd diff_null_mat1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material019
+map_Kd diff_null_1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material020
+map_Kd diff_null_2.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material021
+map_Kd diff_null_Black1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material022
+map_Kd diff_null_Model001Materia.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material023
+map_Kd diff_null_Model001Mate1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material024
+map_Kd diff_null_13.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material025
+map_Kd _6.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material026
+map_Kd Metal_Aluminum_Anodized.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material027
+map_Kd diff_null_Color006.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material028
+map_Kd Blinds_Vertical_Stripe_Gray.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material029
+map_Kd diff_null_15.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material030
+map_Kd diff_null_Color002.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material031
+map_Kd Cladding_Siding_Tan.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material032
+map_Kd diff_null_Color008.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material033
+map_Kd diff_null_16.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material034
+map_Kd _2.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material035
+map_Kd Blinds_Roman_Hobbled_Blue.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material036
+map_Kd Blinds_Wood_White.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material037
+map_Kd Metal_Seamed.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material038
+map_Kd image_16.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material039
+map_Kd diff_null_9.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material040
+map_Kd image_15.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material041
+map_Kd _Blinds_Roman_Hobbled_Blue_1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material042
+map_Kd diff_null_10.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material043
+map_Kd diff_null_Material5.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material044
+map_Kd diff_null_Material1.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material045
+map_Kd diff_null_11.png
+map_bump bumpmap_flat.png
+

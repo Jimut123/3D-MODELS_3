@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 8adb8cc7e6334b240b61bbe55e42f4b3
+timeCreated: 1483308816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Crates
+    100004: Floor
+    100006: Glass
+    100008: Holes
+    100010: Hull
+    100012: Ship
+    100014: Smokestack
+    400000: //RootNode
+    400002: Crates
+    400004: Floor
+    400006: Glass
+    400008: Holes
+    400010: Hull
+    400012: Ship
+    400014: Smokestack
+    2300000: Crates
+    2300002: Floor
+    2300004: Glass
+    2300006: Holes
+    2300008: Hull
+    2300010: Ship
+    2300012: Smokestack
+    3300000: Crates
+    3300002: Floor
+    3300004: Glass
+    3300006: Holes
+    3300008: Hull
+    3300010: Ship
+    3300012: Smokestack
+    4300000: Crates
+    4300002: Floor
+    4300004: Glass
+    4300006: Holes
+    4300008: Hull
+    4300010: Ship
+    4300012: Smokestack
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
