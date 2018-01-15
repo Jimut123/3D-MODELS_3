@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: d776ed7fe64011f47b23e1f2bb9ac091
+timeCreated: 1459588894
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arrowheadLeaf01
+    100002: arrowheadLeaf02
+    100004: arrowheadLeaf03
+    100006: arrowheadLeaf04
+    100008: arrowheadLeaf05
+    100010: arrowheadLeaf06
+    100012: arrowheadLeaf07
+    100014: arrowheadLeaf08
+    100016: arrowheadLeaf09
+    100018: arrowheadLeaf10
+    100020: arrowheadLeaf11
+    100022: arrowheadLeaf12
+    100024: arrowheadStems
+    100026: //RootNode
+    100028: strayGrassHelms
+    100030: arrowheadLeaf_01
+    100032: arrowheadLeaf_02
+    100034: arrowheadLeaf_03
+    100036: arrowheadLeaf_04
+    100038: arrowheadLeaf_05
+    100040: arrowheadLeaf_06
+    100042: arrowheadLeaf_07
+    100044: arrowheadLeaf_08
+    100046: arrowheadLeaf_09
+    100048: arrowheadLeaf_10
+    100050: arrowheadLeaf_11
+    100052: arrowheadLeaf_12
+    400000: arrowheadLeaf01
+    400002: arrowheadLeaf02
+    400004: arrowheadLeaf03
+    400006: arrowheadLeaf04
+    400008: arrowheadLeaf05
+    400010: arrowheadLeaf06
+    400012: arrowheadLeaf07
+    400014: arrowheadLeaf08
+    400016: arrowheadLeaf09
+    400018: arrowheadLeaf10
+    400020: arrowheadLeaf11
+    400022: arrowheadLeaf12
+    400024: arrowheadStems
+    400026: //RootNode
+    400028: strayGrassHelms
+    400030: arrowheadLeaf_01
+    400032: arrowheadLeaf_02
+    400034: arrowheadLeaf_03
+    400036: arrowheadLeaf_04
+    400038: arrowheadLeaf_05
+    400040: arrowheadLeaf_06
+    400042: arrowheadLeaf_07
+    400044: arrowheadLeaf_08
+    400046: arrowheadLeaf_09
+    400048: arrowheadLeaf_10
+    400050: arrowheadLeaf_11
+    400052: arrowheadLeaf_12
+    2300000: arrowheadLeaf01
+    2300002: arrowheadLeaf02
+    2300004: arrowheadLeaf03
+    2300006: arrowheadLeaf04
+    2300008: arrowheadLeaf05
+    2300010: arrowheadLeaf06
+    2300012: arrowheadLeaf07
+    2300014: arrowheadLeaf08
+    2300016: arrowheadLeaf09
+    2300018: arrowheadLeaf10
+    2300020: arrowheadLeaf11
+    2300022: arrowheadLeaf12
+    2300024: arrowheadStems
+    2300026: strayGrassHelms
+    2300028: arrowheadLeaf_01
+    2300030: arrowheadLeaf_02
+    2300032: arrowheadLeaf_03
+    2300034: arrowheadLeaf_04
+    2300036: arrowheadLeaf_05
+    2300038: arrowheadLeaf_06
+    2300040: arrowheadLeaf_07
+    2300042: arrowheadLeaf_08
+    2300044: arrowheadLeaf_09
+    2300046: arrowheadLeaf_10
+    2300048: arrowheadLeaf_11
+    2300050: arrowheadLeaf_12
+    3300000: arrowheadLeaf01
+    3300002: arrowheadLeaf02
+    3300004: arrowheadLeaf03
+    3300006: arrowheadLeaf04
+    3300008: arrowheadLeaf05
+    3300010: arrowheadLeaf06
+    3300012: arrowheadLeaf07
+    3300014: arrowheadLeaf08
+    3300016: arrowheadLeaf09
+    3300018: arrowheadLeaf10
+    3300020: arrowheadLeaf11
+    3300022: arrowheadLeaf12
+    3300024: arrowheadStems
+    3300026: strayGrassHelms
+    3300028: arrowheadLeaf_01
+    3300030: arrowheadLeaf_02
+    3300032: arrowheadLeaf_03
+    3300034: arrowheadLeaf_04
+    3300036: arrowheadLeaf_05
+    3300038: arrowheadLeaf_06
+    3300040: arrowheadLeaf_07
+    3300042: arrowheadLeaf_08
+    3300044: arrowheadLeaf_09
+    3300046: arrowheadLeaf_10
+    3300048: arrowheadLeaf_11
+    3300050: arrowheadLeaf_12
+    4300000: strayGrassHelms
+    4300002: arrowheadLeaf07
+    4300004: arrowheadLeaf06
+    4300006: arrowheadLeaf03
+    4300008: arrowheadLeaf04
+    4300010: arrowheadLeaf05
+    4300012: arrowheadLeaf09
+    4300014: arrowheadLeaf12
+    4300016: arrowheadLeaf01
+    4300018: arrowheadLeaf11
+    4300020: arrowheadStems
+    4300022: arrowheadLeaf08
+    4300024: arrowheadLeaf10
+    4300026: arrowheadLeaf02
+    4300028: arrowheadLeaf_07
+    4300030: arrowheadLeaf_06
+    4300032: arrowheadLeaf_03
+    4300034: arrowheadLeaf_04
+    4300036: arrowheadLeaf_05
+    4300038: arrowheadLeaf_09
+    4300040: arrowheadLeaf_12
+    4300042: arrowheadLeaf_01
+    4300044: arrowheadLeaf_11
+    4300046: arrowheadLeaf_08
+    4300048: arrowheadLeaf_10
+    4300050: arrowheadLeaf_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 146482b6da7c03c4db139bc97dc0b172
+timeCreated: 1459588888
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arrowhead_02_Flower_01
+    100002: arrowhead_02_Flower_02
+    100004: arrowhead_02_Flowers_01
+    100006: arrowhead_02_Flowers_02
+    100008: arrowhead_Leaf_S01
+    100010: arrowhead_Leaf_S02
+    100012: arrowhead_Leaf_S03
+    100014: arrowhead_Leaf_S04
+    100016: arrowhead_Stems
+    100018: flowerStem_01
+    100020: flowerStem_02
+    100022: //RootNode
+    100024: arrowheadLeaf_S01
+    100026: arrowheadLeaf_S02
+    100028: arrowheadLeaf_S03
+    100030: arrowheadLeaf_S04
+    400000: arrowhead_02_Flower_01
+    400002: arrowhead_02_Flower_02
+    400004: arrowhead_02_Flowers_01
+    400006: arrowhead_02_Flowers_02
+    400008: arrowhead_Leaf_S01
+    400010: arrowhead_Leaf_S02
+    400012: arrowhead_Leaf_S03
+    400014: arrowhead_Leaf_S04
+    400016: arrowhead_Stems
+    400018: flowerStem_01
+    400020: flowerStem_02
+    400022: //RootNode
+    400024: arrowheadLeaf_S01
+    400026: arrowheadLeaf_S02
+    400028: arrowheadLeaf_S03
+    400030: arrowheadLeaf_S04
+    2300000: arrowhead_02_Flowers_01
+    2300002: arrowhead_02_Flowers_02
+    2300004: arrowhead_Leaf_S01
+    2300006: arrowhead_Leaf_S02
+    2300008: arrowhead_Leaf_S03
+    2300010: arrowhead_Leaf_S04
+    2300012: arrowhead_Stems
+    2300014: flowerStem_01
+    2300016: flowerStem_02
+    2300018: arrowheadLeaf_S01
+    2300020: arrowheadLeaf_S02
+    2300022: arrowheadLeaf_S03
+    2300024: arrowheadLeaf_S04
+    3300000: arrowhead_02_Flowers_01
+    3300002: arrowhead_02_Flowers_02
+    3300004: arrowhead_Leaf_S01
+    3300006: arrowhead_Leaf_S02
+    3300008: arrowhead_Leaf_S03
+    3300010: arrowhead_Leaf_S04
+    3300012: arrowhead_Stems
+    3300014: flowerStem_01
+    3300016: flowerStem_02
+    3300018: arrowheadLeaf_S01
+    3300020: arrowheadLeaf_S02
+    3300022: arrowheadLeaf_S03
+    3300024: arrowheadLeaf_S04
+    4300000: arrowhead_Leaf_S03
+    4300002: arrowhead_Leaf_S04
+    4300004: arrowhead_Stems
+    4300006: arrowhead_Leaf_S02
+    4300008: arrowhead_Leaf_S01
+    4300010: arrowhead_02_Flowers_01
+    4300012: flowerStem_01
+    4300014: flowerStem_02
+    4300016: arrowhead_02_Flowers_02
+    4300018: arrowheadLeaf_S03
+    4300020: arrowheadLeaf_S04
+    4300022: arrowheadLeaf_S02
+    4300024: arrowheadLeaf_S01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

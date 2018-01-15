@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: aca36b4ac86702b45addd2613b63bd5d
+timeCreated: 1459588892
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tropicalPlant_03_Leaf_01
+    100004: tropicalPlant_03_Leaf_02
+    100006: tropicalPlant_03_Leaf_03
+    100008: tropicalPlant_03_Leaf_04
+    100010: tropicalPlant_03_Leaf_05
+    100012: tropicalPlant_03_Leaf_06
+    100014: tropicalPlant_03_Leaf_07
+    100016: tropicalPlant_03_Leaf_11
+    100018: tropicalPlant_03_Leaf_13
+    100020: tropicalPlant_03_Leaf_14
+    100022: tropicalPlant_03_Leaf_15
+    100024: tropicalPlant_03_Leaf_16
+    100026: tropicalPlant_03_Stems
+    100028: tp_03_Leaf_01
+    100030: tp_03_Leaf_02
+    100032: tp_03_Leaf_03
+    100034: tp_03_Leaf_04
+    100036: tp_03_Leaf_05
+    100038: tp_03_Leaf_06
+    100040: tp_03_Leaf_07
+    100042: tp_03_Leaf_08
+    100044: tp_03_Leaf_09
+    100046: tp_03_Leaf_10
+    100048: tp_03_Leaf_11
+    100050: tp_03_Leaf_12
+    400000: //RootNode
+    400002: tropicalPlant_03_Leaf_01
+    400004: tropicalPlant_03_Leaf_02
+    400006: tropicalPlant_03_Leaf_03
+    400008: tropicalPlant_03_Leaf_04
+    400010: tropicalPlant_03_Leaf_05
+    400012: tropicalPlant_03_Leaf_06
+    400014: tropicalPlant_03_Leaf_07
+    400016: tropicalPlant_03_Leaf_11
+    400018: tropicalPlant_03_Leaf_13
+    400020: tropicalPlant_03_Leaf_14
+    400022: tropicalPlant_03_Leaf_15
+    400024: tropicalPlant_03_Leaf_16
+    400026: tropicalPlant_03_Stems
+    400028: tp_03_Leaf_01
+    400030: tp_03_Leaf_02
+    400032: tp_03_Leaf_03
+    400034: tp_03_Leaf_04
+    400036: tp_03_Leaf_05
+    400038: tp_03_Leaf_06
+    400040: tp_03_Leaf_07
+    400042: tp_03_Leaf_08
+    400044: tp_03_Leaf_09
+    400046: tp_03_Leaf_10
+    400048: tp_03_Leaf_11
+    400050: tp_03_Leaf_12
+    2300000: tropicalPlant_03_Leaf_01
+    2300002: tropicalPlant_03_Leaf_02
+    2300004: tropicalPlant_03_Leaf_03
+    2300006: tropicalPlant_03_Leaf_04
+    2300008: tropicalPlant_03_Leaf_05
+    2300010: tropicalPlant_03_Leaf_06
+    2300012: tropicalPlant_03_Leaf_07
+    2300014: tropicalPlant_03_Leaf_11
+    2300016: tropicalPlant_03_Leaf_13
+    2300018: tropicalPlant_03_Leaf_14
+    2300020: tropicalPlant_03_Leaf_15
+    2300022: tropicalPlant_03_Leaf_16
+    2300024: tropicalPlant_03_Stems
+    2300026: tp_03_Leaf_01
+    2300028: tp_03_Leaf_02
+    2300030: tp_03_Leaf_03
+    2300032: tp_03_Leaf_04
+    2300034: tp_03_Leaf_05
+    2300036: tp_03_Leaf_06
+    2300038: tp_03_Leaf_07
+    2300040: tp_03_Leaf_08
+    2300042: tp_03_Leaf_09
+    2300044: tp_03_Leaf_10
+    2300046: tp_03_Leaf_11
+    2300048: tp_03_Leaf_12
+    3300000: tropicalPlant_03_Leaf_01
+    3300002: tropicalPlant_03_Leaf_02
+    3300004: tropicalPlant_03_Leaf_03
+    3300006: tropicalPlant_03_Leaf_04
+    3300008: tropicalPlant_03_Leaf_05
+    3300010: tropicalPlant_03_Leaf_06
+    3300012: tropicalPlant_03_Leaf_07
+    3300014: tropicalPlant_03_Leaf_11
+    3300016: tropicalPlant_03_Leaf_13
+    3300018: tropicalPlant_03_Leaf_14
+    3300020: tropicalPlant_03_Leaf_15
+    3300022: tropicalPlant_03_Leaf_16
+    3300024: tropicalPlant_03_Stems
+    3300026: tp_03_Leaf_01
+    3300028: tp_03_Leaf_02
+    3300030: tp_03_Leaf_03
+    3300032: tp_03_Leaf_04
+    3300034: tp_03_Leaf_05
+    3300036: tp_03_Leaf_06
+    3300038: tp_03_Leaf_07
+    3300040: tp_03_Leaf_08
+    3300042: tp_03_Leaf_09
+    3300044: tp_03_Leaf_10
+    3300046: tp_03_Leaf_11
+    3300048: tp_03_Leaf_12
+    4300000: tropicalPlant_03_Leaf_14
+    4300002: tropicalPlant_03_Leaf_16
+    4300004: tropicalPlant_03_Leaf_15
+    4300006: tropicalPlant_03_Leaf_13
+    4300008: tropicalPlant_03_Leaf_07
+    4300010: tropicalPlant_03_Leaf_06
+    4300012: tropicalPlant_03_Leaf_01
+    4300014: tropicalPlant_03_Leaf_03
+    4300016: tropicalPlant_03_Leaf_02
+    4300018: tropicalPlant_03_Leaf_04
+    4300020: tropicalPlant_03_Leaf_05
+    4300022: tropicalPlant_03_Stems
+    4300024: tropicalPlant_03_Leaf_11
+    4300026: tp_03_Leaf_01
+    4300028: tp_03_Leaf_09
+    4300030: tp_03_Leaf_12
+    4300032: tp_03_Leaf_10
+    4300034: tp_03_Leaf_11
+    4300036: tp_03_Leaf_03
+    4300038: tp_03_Leaf_02
+    4300040: tp_03_Leaf_04
+    4300042: tp_03_Leaf_07
+    4300044: tp_03_Leaf_06
+    4300046: tp_03_Leaf_08
+    4300048: tp_03_Leaf_05
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
