@@ -1,0 +1,82 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.07.2015 15:33:25
+
+newmtl 00000000_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl 89757347_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0003.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0003.dds
+
+newmtl 7ef8b6bc_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0004.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0004.dds
+
+newmtl a2b76d65_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0005.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0005.dds
+
+newmtl 29e601c1_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0009.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 MBT 'Jaguar Tank'\textures\texture_0009.dds
+
+newmtl cb2be95d_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000

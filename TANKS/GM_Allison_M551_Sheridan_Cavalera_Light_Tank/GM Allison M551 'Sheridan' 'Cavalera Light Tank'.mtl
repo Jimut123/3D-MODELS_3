@@ -1,0 +1,95 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.07.2015 17:47:33
+
+newmtl 29e5e2aa_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl f3fb49f2_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0004.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0004.dds
+
+newmtl 7c3dda08_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl 6317ba12_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0006.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0006.dds
+
+newmtl f0c36ec7_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0013.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0013.dds
+
+newmtl f235f6dc_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0026.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0026.dds
+	map_d C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\GM Allison M551 'Sheridan' 'Cavalera Light Tank'\textures\texture_0026.dds
+
+newmtl cb2be95d_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000

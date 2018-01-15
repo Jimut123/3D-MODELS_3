@@ -1,0 +1,86 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 10.07.2015 14:33:45
+
+newmtl a2b76d65_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0007.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0007.dds
+
+newmtl Material__35348
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0001.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0001.dds
+
+newmtl Material__35347
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0001.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0001.dds
+
+newmtl 8ead3179_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0007.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0007.dds
+
+newmtl 89757347_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0013.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0013.dds
+
+newmtl 0b2252f3_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.700000 0.700000 0.700000
+	Kd 0.700000 0.700000 0.700000
+	Ks 0.100000 0.100000 0.100000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0010.dds
+	map_Kd C:\Users\vados\Desktop\3D models\Mercenaries 2 world in flames\vehicles\ARE AMX-30 'Mosquito AA'\textures\texture_0010.dds

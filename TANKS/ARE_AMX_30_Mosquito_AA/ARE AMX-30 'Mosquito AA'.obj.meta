@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 10a40a94a5ace304482a09de94caa2ae
+timeCreated: 1483278166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DrawCall_1650
+    100004: DrawCall_1651
+    100006: DrawCall_1654
+    100008: DrawCall_1655
+    100010: DrawCall_1656
+    100012: DrawCall_1657
+    100014: DrawCall_1658
+    100016: DrawCall_1659
+    100018: DrawCall_1660
+    100020: DrawCall_1661
+    100022: DrawCall_1662
+    100024: DrawCall_1663
+    100026: DrawCall_1664
+    100028: DrawCall_1665
+    100030: DrawCall_1666
+    100032: DrawCall_1667
+    100034: DrawCall_1668
+    100036: DrawCall_1669
+    100038: DrawCall_1677
+    100040: DrawCall_1678
+    100042: DrawCall_1679
+    100044: DrawCall_1680
+    100046: DrawCall_1681
+    100048: DrawCall_1687
+    100050: DrawCall_1688
+    100052: DrawCall_1689
+    100054: DrawCall_1690
+    100056: DrawCall_1764
+    100058: DrawCall_1945
+    400000: //RootNode
+    400002: DrawCall_1650
+    400004: DrawCall_1651
+    400006: DrawCall_1654
+    400008: DrawCall_1655
+    400010: DrawCall_1656
+    400012: DrawCall_1657
+    400014: DrawCall_1658
+    400016: DrawCall_1659
+    400018: DrawCall_1660
+    400020: DrawCall_1661
+    400022: DrawCall_1662
+    400024: DrawCall_1663
+    400026: DrawCall_1664
+    400028: DrawCall_1665
+    400030: DrawCall_1666
+    400032: DrawCall_1667
+    400034: DrawCall_1668
+    400036: DrawCall_1669
+    400038: DrawCall_1677
+    400040: DrawCall_1678
+    400042: DrawCall_1679
+    400044: DrawCall_1680
+    400046: DrawCall_1681
+    400048: DrawCall_1687
+    400050: DrawCall_1688
+    400052: DrawCall_1689
+    400054: DrawCall_1690
+    400056: DrawCall_1764
+    400058: DrawCall_1945
+    2300000: DrawCall_1650
+    2300002: DrawCall_1651
+    2300004: DrawCall_1654
+    2300006: DrawCall_1655
+    2300008: DrawCall_1656
+    2300010: DrawCall_1657
+    2300012: DrawCall_1658
+    2300014: DrawCall_1659
+    2300016: DrawCall_1660
+    2300018: DrawCall_1661
+    2300020: DrawCall_1662
+    2300022: DrawCall_1663
+    2300024: DrawCall_1664
+    2300026: DrawCall_1665
+    2300028: DrawCall_1666
+    2300030: DrawCall_1667
+    2300032: DrawCall_1668
+    2300034: DrawCall_1669
+    2300036: DrawCall_1677
+    2300038: DrawCall_1678
+    2300040: DrawCall_1679
+    2300042: DrawCall_1680
+    2300044: DrawCall_1681
+    2300046: DrawCall_1687
+    2300048: DrawCall_1688
+    2300050: DrawCall_1689
+    2300052: DrawCall_1690
+    2300054: DrawCall_1764
+    2300056: DrawCall_1945
+    3300000: DrawCall_1650
+    3300002: DrawCall_1651
+    3300004: DrawCall_1654
+    3300006: DrawCall_1655
+    3300008: DrawCall_1656
+    3300010: DrawCall_1657
+    3300012: DrawCall_1658
+    3300014: DrawCall_1659
+    3300016: DrawCall_1660
+    3300018: DrawCall_1661
+    3300020: DrawCall_1662
+    3300022: DrawCall_1663
+    3300024: DrawCall_1664
+    3300026: DrawCall_1665
+    3300028: DrawCall_1666
+    3300030: DrawCall_1667
+    3300032: DrawCall_1668
+    3300034: DrawCall_1669
+    3300036: DrawCall_1677
+    3300038: DrawCall_1678
+    3300040: DrawCall_1679
+    3300042: DrawCall_1680
+    3300044: DrawCall_1681
+    3300046: DrawCall_1687
+    3300048: DrawCall_1688
+    3300050: DrawCall_1689
+    3300052: DrawCall_1690
+    3300054: DrawCall_1764
+    3300056: DrawCall_1945
+    4300000: DrawCall_1650
+    4300002: DrawCall_1651
+    4300004: DrawCall_1654
+    4300006: DrawCall_1655
+    4300008: DrawCall_1656
+    4300010: DrawCall_1657
+    4300012: DrawCall_1658
+    4300014: DrawCall_1659
+    4300016: DrawCall_1660
+    4300018: DrawCall_1661
+    4300020: DrawCall_1662
+    4300022: DrawCall_1663
+    4300024: DrawCall_1664
+    4300026: DrawCall_1665
+    4300028: DrawCall_1666
+    4300030: DrawCall_1667
+    4300032: DrawCall_1668
+    4300034: DrawCall_1669
+    4300036: DrawCall_1677
+    4300038: DrawCall_1678
+    4300040: DrawCall_1679
+    4300042: DrawCall_1680
+    4300044: DrawCall_1681
+    4300046: DrawCall_1687
+    4300048: DrawCall_1688
+    4300050: DrawCall_1689
+    4300052: DrawCall_1690
+    4300054: DrawCall_1764
+    4300056: DrawCall_1945
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
