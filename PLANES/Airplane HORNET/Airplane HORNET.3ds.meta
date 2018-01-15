@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: e81676892f87e0c4faeb1f261b7b68e3
+timeCreated: 1483267969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HormBtir
+    100004: HornBge2
+    100006: HornBlig
+    100008: HornBra2
+    100010: HornCock
+    100012: HornCon2
+    100014: HornCon3
+    100016: HornCono
+    100018: HornEsta
+    100020: HornEvt
+    100022: HornEvt2
+    100024: Hornfus1
+    100026: HornFus2
+    100028: HornFus6
+    100030: HornFuse
+    100032: HornGea2
+    100034: HornGear
+    100036: HornGrid
+    100038: HornGrid0
+    100040: 'HornInle '
+    100042: HornLfl2
+    100044: HornLfl20
+    100046: HornLfl3
+    100048: HornLfla
+    100050: HornLfue
+    100052: HornLig3
+    100054: HornLRud
+    100056: HornLrud
+    100058: HornMav2
+    100060: HornMave
+    100062: HornMis2
+    100064: HornMis3
+    100066: HornMisi
+    100068: HornNozz
+    100070: HornRada
+    100072: HornRfl3
+    100074: HornRfla
+    100076: HornRlig
+    100078: HornRRud
+    100080: HornRrud
+    100082: 'HornRudd '
+    100084: HornSeat
+    100086: HornStee
+    100088: HornTire
+    100090: HornWin2
+    100092: 'HornWing '
+    100094: HornWsup
+    100096: HornWsup0
+    400000: //RootNode
+    400002: HormBtir
+    400004: HornBge2
+    400006: HornBlig
+    400008: HornBra2
+    400010: HornCock
+    400012: HornCon2
+    400014: HornCon3
+    400016: HornCono
+    400018: HornEsta
+    400020: HornEvt
+    400022: HornEvt2
+    400024: Hornfus1
+    400026: HornFus2
+    400028: HornFus6
+    400030: HornFuse
+    400032: HornGea2
+    400034: HornGear
+    400036: HornGrid
+    400038: HornGrid0
+    400040: 'HornInle '
+    400042: HornLfl2
+    400044: HornLfl20
+    400046: HornLfl3
+    400048: HornLfla
+    400050: HornLfue
+    400052: HornLig3
+    400054: HornLRud
+    400056: HornLrud
+    400058: HornMav2
+    400060: HornMave
+    400062: HornMis2
+    400064: HornMis3
+    400066: HornMisi
+    400068: HornNozz
+    400070: HornRada
+    400072: HornRfl3
+    400074: HornRfla
+    400076: HornRlig
+    400078: HornRRud
+    400080: HornRrud
+    400082: 'HornRudd '
+    400084: HornSeat
+    400086: HornStee
+    400088: HornTire
+    400090: HornWin2
+    400092: 'HornWing '
+    400094: HornWsup
+    400096: HornWsup0
+    2300000: HormBtir
+    2300002: HornBge2
+    2300004: HornBlig
+    2300006: HornBra2
+    2300008: HornCock
+    2300010: HornCon2
+    2300012: HornCon3
+    2300014: HornCono
+    2300016: HornEsta
+    2300018: HornEvt
+    2300020: HornEvt2
+    2300022: Hornfus1
+    2300024: HornFus2
+    2300026: HornFus6
+    2300028: HornFuse
+    2300030: HornGea2
+    2300032: HornGear
+    2300034: HornGrid
+    2300036: HornGrid0
+    2300038: 'HornInle '
+    2300040: HornLfl2
+    2300042: HornLfl20
+    2300044: HornLfl3
+    2300046: HornLfla
+    2300048: HornLfue
+    2300050: HornLig3
+    2300052: HornLRud
+    2300054: HornLrud
+    2300056: HornMav2
+    2300058: HornMave
+    2300060: HornMis2
+    2300062: HornMis3
+    2300064: HornMisi
+    2300066: HornNozz
+    2300068: HornRada
+    2300070: HornRfl3
+    2300072: HornRfla
+    2300074: HornRlig
+    2300076: HornRRud
+    2300078: HornRrud
+    2300080: 'HornRudd '
+    2300082: HornSeat
+    2300084: HornStee
+    2300086: HornTire
+    2300088: HornWin2
+    2300090: 'HornWing '
+    2300092: HornWsup
+    2300094: HornWsup0
+    3300000: HormBtir
+    3300002: HornBge2
+    3300004: HornBlig
+    3300006: HornBra2
+    3300008: HornCock
+    3300010: HornCon2
+    3300012: HornCon3
+    3300014: HornCono
+    3300016: HornEsta
+    3300018: HornEvt
+    3300020: HornEvt2
+    3300022: Hornfus1
+    3300024: HornFus2
+    3300026: HornFus6
+    3300028: HornFuse
+    3300030: HornGea2
+    3300032: HornGear
+    3300034: HornGrid
+    3300036: HornGrid0
+    3300038: 'HornInle '
+    3300040: HornLfl2
+    3300042: HornLfl20
+    3300044: HornLfl3
+    3300046: HornLfla
+    3300048: HornLfue
+    3300050: HornLig3
+    3300052: HornLRud
+    3300054: HornLrud
+    3300056: HornMav2
+    3300058: HornMave
+    3300060: HornMis2
+    3300062: HornMis3
+    3300064: HornMisi
+    3300066: HornNozz
+    3300068: HornRada
+    3300070: HornRfl3
+    3300072: HornRfla
+    3300074: HornRlig
+    3300076: HornRRud
+    3300078: HornRrud
+    3300080: 'HornRudd '
+    3300082: HornSeat
+    3300084: HornStee
+    3300086: HornTire
+    3300088: HornWin2
+    3300090: 'HornWing '
+    3300092: HornWsup
+    3300094: HornWsup0
+    4300000: HornCock
+    4300002: HornSeat
+    4300004: HornCono
+    4300006: HornCon3
+    4300008: HornBra2
+    4300010: HormBtir
+    4300012: HornBge2
+    4300014: HornGear
+    4300016: HornBlig
+    4300018: HornCon2
+    4300020: HornEsta
+    4300022: HornEvt
+    4300024: HornEvt2
+    4300026: Hornfus1
+    4300028: HornFus2
+    4300030: HornFus6
+    4300032: HornFuse
+    4300034: HornGea2
+    4300036: HornGrid
+    4300038: HornGrid0
+    4300040: 'HornInle '
+    4300042: HornLfl2
+    4300044: HornLfl20
+    4300046: HornLfl3
+    4300048: HornLfla
+    4300050: HornLfue
+    4300052: HornLig3
+    4300054: HornLRud
+    4300056: HornLrud
+    4300058: HornMav2
+    4300060: HornMave
+    4300062: HornMis2
+    4300064: HornMis3
+    4300066: HornMisi
+    4300068: HornNozz
+    4300070: HornRada
+    4300072: HornRfl3
+    4300074: HornRfla
+    4300076: HornRlig
+    4300078: HornRRud
+    4300080: HornRrud
+    4300082: 'HornRudd '
+    4300084: HornStee
+    4300086: HornTire
+    4300088: HornWin2
+    4300090: 'HornWing '
+    4300092: HornWsup
+    4300094: HornWsup0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

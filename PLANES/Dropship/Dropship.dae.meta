@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 2134598b46ae09947b60539aea1252c0
+timeCreated: 1483309357
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Dropship
+    100004: //RootNode
+    100006: dropship
+    100008: Dropship_lights
+    100010: landing_gear
+    100012: landing_gear_back_left
+    100014: landing_gear_back_right
+    100016: landing_gear_front_left
+    100018: landing_gear_front_right
+    100020: missiles_left
+    100022: missiles_right
+    100024: root_ground
+    100026: wing_left
+    100028: wing_right
+    400000: Armature
+    400002: //RootNode
+    400004: Dropship
+    400006: dropship
+    400008: Dropship_lights
+    400010: landing_gear
+    400012: landing_gear_back_left
+    400014: landing_gear_back_right
+    400016: landing_gear_front_left
+    400018: landing_gear_front_right
+    400020: missiles_left
+    400022: missiles_right
+    400024: root_ground
+    400026: wing_left
+    400028: wing_right
+    4300000: Dropship
+    4300002: Dropship_lights
+    9500000: //RootNode
+    13700000: Dropship
+    13700002: Dropship_lights
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

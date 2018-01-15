@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 8b4128b352a9da44085ffbffa8f690b4
+timeCreated: 1483271707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_1
+    100002: Arm_1 1
+    100004: Arm_2
+    100006: arm_2
+    100008: Arm_3
+    100010: arm_3
+    100012: Arm_4
+    100014: arm_4
+    100016: Arm_5
+    100018: arm_5
+    100020: Arm_6
+    100022: arm_6
+    100024: arm_7
+    100026: body_front.2
+    100028: body_rear.2
+    100030: Bomb_Left
+    100032: Bomb_Right
+    100034: Bombs
+    100036: Characters
+    100038: dials
+    100040: Flap_1
+    100042: Flap_1 1
+    100044: Flap_2
+    100046: Flap_2 1
+    100048: glass
+    100050: //RootNode
+    100052: Landing_Gear_Left
+    100054: Landing_Gear_Right
+    100056: left_wing.1
+    100058: Main_Body
+    100060: parts_1
+    100062: parts_2.1
+    100064: parts_3
+    100066: parts_4
+    100068: pilot
+    100070: pilot_2
+    100072: pilot_3
+    100074: Prop_1
+    100076: Prop_2
+    100078: Prop_3
+    100080: prop_4
+    100082: prop_5
+    100084: prop_6
+    100086: Propellers
+    100088: right_wing.1
+    100090: under.1
+    100092: Wheel
+    400000: Arm_1
+    400002: Arm_1 1
+    400004: Arm_2
+    400006: arm_2
+    400008: Arm_3
+    400010: arm_3
+    400012: Arm_4
+    400014: arm_4
+    400016: Arm_5
+    400018: arm_5
+    400020: Arm_6
+    400022: arm_6
+    400024: arm_7
+    400026: body_front.2
+    400028: body_rear.2
+    400030: Bomb_Left
+    400032: Bomb_Right
+    400034: Bombs
+    400036: Characters
+    400038: dials
+    400040: Flap_1
+    400042: Flap_1 1
+    400044: Flap_2
+    400046: Flap_2 1
+    400048: glass
+    400050: //RootNode
+    400052: Landing_Gear_Left
+    400054: Landing_Gear_Right
+    400056: left_wing.1
+    400058: Main_Body
+    400060: parts_1
+    400062: parts_2.1
+    400064: parts_3
+    400066: parts_4
+    400068: pilot
+    400070: pilot_2
+    400072: pilot_3
+    400074: Prop_1
+    400076: Prop_2
+    400078: Prop_3
+    400080: prop_4
+    400082: prop_5
+    400084: prop_6
+    400086: Propellers
+    400088: right_wing.1
+    400090: under.1
+    400092: Wheel
+    2300000: Arm_1
+    2300002: Arm_1 1
+    2300004: Arm_2
+    2300006: arm_2
+    2300008: Arm_3
+    2300010: arm_3
+    2300012: Arm_4
+    2300014: arm_4
+    2300016: Arm_5
+    2300018: arm_5
+    2300020: Arm_6
+    2300022: arm_6
+    2300024: arm_7
+    2300026: body_front.2
+    2300028: body_rear.2
+    2300030: Bomb_Left
+    2300032: Bomb_Right
+    2300034: dials
+    2300036: Flap_1
+    2300038: Flap_1 1
+    2300040: Flap_2
+    2300042: Flap_2 1
+    2300044: glass
+    2300046: left_wing.1
+    2300048: parts_1
+    2300050: parts_2.1
+    2300052: parts_3
+    2300054: parts_4
+    2300056: pilot
+    2300058: pilot_2
+    2300060: pilot_3
+    2300062: Prop_1
+    2300064: Prop_2
+    2300066: Prop_3
+    2300068: prop_4
+    2300070: prop_5
+    2300072: prop_6
+    2300074: right_wing.1
+    2300076: under.1
+    2300078: Wheel
+    3300000: Arm_1
+    3300002: Arm_1 1
+    3300004: Arm_2
+    3300006: arm_2
+    3300008: Arm_3
+    3300010: arm_3
+    3300012: Arm_4
+    3300014: arm_4
+    3300016: Arm_5
+    3300018: arm_5
+    3300020: Arm_6
+    3300022: arm_6
+    3300024: arm_7
+    3300026: body_front.2
+    3300028: body_rear.2
+    3300030: Bomb_Left
+    3300032: Bomb_Right
+    3300034: dials
+    3300036: Flap_1
+    3300038: Flap_1 1
+    3300040: Flap_2
+    3300042: Flap_2 1
+    3300044: glass
+    3300046: left_wing.1
+    3300048: parts_1
+    3300050: parts_2.1
+    3300052: parts_3
+    3300054: parts_4
+    3300056: pilot
+    3300058: pilot_2
+    3300060: pilot_3
+    3300062: Prop_1
+    3300064: Prop_2
+    3300066: Prop_3
+    3300068: prop_4
+    3300070: prop_5
+    3300072: prop_6
+    3300074: right_wing.1
+    3300076: under.1
+    3300078: Wheel
+    4300000: pilot
+    4300002: pilot_2
+    4300004: pilot_3
+    4300006: Prop_1
+    4300008: Prop_2
+    4300010: Prop_3
+    4300012: prop_4
+    4300014: prop_5
+    4300016: prop_6
+    4300018: Bomb_Left
+    4300020: Bomb_Right
+    4300022: Arm_1
+    4300024: arm_2
+    4300026: arm_3
+    4300028: arm_4
+    4300030: arm_5
+    4300032: arm_6
+    4300034: arm_7
+    4300036: Flap_1
+    4300038: Flap_2
+    4300040: Arm_1
+    4300042: Arm_2
+    4300044: Wheel
+    4300046: Arm_3
+    4300048: Arm_4
+    4300050: Flap_1
+    4300052: Flap_2
+    4300054: Arm_5
+    4300056: Arm_6
+    4300058: parts_1
+    4300060: parts_2.1
+    4300062: parts_3
+    4300064: parts_4
+    4300066: under.1
+    4300068: left_wing.1
+    4300070: right_wing.1
+    4300072: body_front.2
+    4300074: body_rear.2
+    4300076: dials
+    4300078: glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

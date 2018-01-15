@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: cd9af3555acdd4a4ab2314a8b16eef53
+timeCreated: 1483273530
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aileron gap
+    100002: aileron gap.2
+    100004: Aileron L
+    100006: Aileron R
+    100008: Altitude indicator
+    100010: Altitude indicator.1
+    100012: Altitude indicator.2
+    100014: Array
+    100016: Arrow
+    100018: Arrow.2
+    100020: Arrow.3
+    100022: Artificial horizon indication
+    100024: Artificial horizon indicator
+    100026: Back wheel door
+    100028: Back wheel door.1
+    100030: Back wing.1
+    100032: Back wing.1.2
+    100034: Background
+    100036: Boards
+    100038: Bullet exit
+    100040: Cannons
+    100042: Canopy frame
+    100044: Cap 2
+    100046: Cap 2.1
+    100048: Cap 2.2
+    100050: Cap 2.3
+    100052: Caqnopy rails
+    100054: Center indication
+    100056: Climb indicator.1
+    100058: Cockpit
+    100060: Cockpit + windshield
+    100062: Cockpit instruments
+    100064: Cone
+    100066: Cone.2
+    100068: Cone.2.2
+    100070: Cone.2.3
+    100072: Cone.2.4
+    100074: Cone.3
+    100076: Cone.4
+    100078: Control stick
+    100080: Cube
+    100082: Cube.1
+    100084: Cube.1.2
+    100086: Cube.1.3
+    100088: Cube.1.4
+    100090: Cube.1.5
+    100092: Cube.10
+    100094: Cube.11
+    100096: Cube.2
+    100098: Cube.2.2
+    100100: Cube.2.3
+    100102: Cube.3
+    100104: Cube.3.2
+    100106: Cube.4
+    100108: Cube.4.2
+    100110: Cube.4.3
+    100112: Cube.5
+    100114: Cube.5.2
+    100116: Cube.6
+    100118: Cube.7
+    100120: Cube.8
+    100122: Cube.9
+    100124: Cylinder
+    100126: Cylinder 2
+    100128: Cylinder 2.1
+    100130: Cylinder.1
+    100132: Cylinder.1.10
+    100134: Cylinder.1.11
+    100136: Cylinder.1.12
+    100138: Cylinder.1.13
+    100140: Cylinder.1.2
+    100142: Cylinder.1.3
+    100144: Cylinder.1.4
+    100146: Cylinder.1.5
+    100148: Cylinder.1.6
+    100150: Cylinder.1.7
+    100152: Cylinder.1.8
+    100154: Cylinder.1.9
+    100156: Cylinder.10
+    100158: Cylinder.10.2
+    100160: Cylinder.10.3
+    100162: Cylinder.10.4
+    100164: Cylinder.12
+    100166: Cylinder.12.2
+    100168: Cylinder.12.3
+    100170: Cylinder.13
+    100172: Cylinder.13.2
+    100174: Cylinder.2
+    100176: Cylinder.2.10
+    100178: Cylinder.2.2
+    100180: Cylinder.2.3
+    100182: Cylinder.2.4
+    100184: Cylinder.2.5
+    100186: Cylinder.2.6
+    100188: Cylinder.2.7
+    100190: Cylinder.2.8
+    100192: Cylinder.2.9
+    100194: Cylinder.3
+    100196: Cylinder.3.10
+    100198: Cylinder.3.2
+    100200: Cylinder.3.3
+    100202: Cylinder.3.4
+    100204: Cylinder.3.5
+    100206: Cylinder.3.6
+    100208: Cylinder.3.7
+    100210: Cylinder.3.8
+    100212: Cylinder.3.9
+    100214: Cylinder.4
+    100216: Cylinder.4.2
+    100218: Cylinder.4.3
+    100220: Cylinder.4.4
+    100222: Cylinder.5
+    100224: Cylinder.5.2
+    100226: Cylinder.5.3
+    100228: Cylinder.5.4
+    100230: Cylinder.5.5
+    100232: Cylinder.6
+    100234: Cylinder.6.2
+    100236: Cylinder.6.3
+    100238: Cylinder.7
+    100240: Cylinder.7.2
+    100242: Cylinder.7.3
+    100244: Cylinder.8
+    100246: Cylinder.8.2
+    100248: Cylinder.8.3
+    100250: Cylinder.9
+    100252: Cylinder.9.2
+    100254: Cylinder.9.3
+    100256: Digits
+    100258: Direction indicator
+    100260: Disc
+    100262: Elevator L
+    100264: Elevator R
+    100266: Exhaust gap
+    100268: Extrude NURBS.1
+    100270: Extrude NURBS.5
+    100272: First Gear Control
+    100274: First Gear Control.2
+    100276: flap gap
+    100278: flap gap.2
+    100280: flap gap.3
+    100282: flap gap.4
+    100284: Flaps 1
+    100286: Flaps 1.2
+    100288: Flaps 2
+    100290: Flaps 2.2
+    100292: Gear down lights
+    100294: gear mesh
+    100296: gear mesh.2
+    100298: gear mesh.3
+    100300: gear mesh.4
+    100302: gear mesh.5
+    100304: gear mesh.6
+    100306: gear mesh.7
+    100308: gear mesh.8
+    100310: gear rigged joints
+    100312: gear rigged joints.2
+    100314: gear rigged joints.3
+    100316: gear rigged joints.4
+    100318: Gear up lights
+    100320: //RootNode
+    100322: Hawker tempest mk.V
+    100324: HyperNURBS
+    100326: HyperNURBS.1
+    100328: HyperNURBS.3
+    100330: HyperNURBS.4
+    100332: HyperNURBS.5
+    100334: HyperNURBS.6
+    100336: Indicator
+    100338: Indicator.1
+    100340: Joint.1
+    100342: Joint.1.2
+    100344: Joint.1.3
+    100346: Joint.1.4
+    100348: Joint.1.Goal
+    100350: Joint.1.Goal.2
+    100352: Joint.2
+    100354: Joint.2.2
+    100356: Joint.2.Goal
+    100358: Joint.2.Goal.2
+    100360: L < > R indicator
+    100362: L R
+    100364: Landing gear door
+    100366: Landing gear door.2
+    100368: Landing gear door.3
+    100370: Landing gear door.4
+    100372: Markings
+    100374: Markings.2
+    100376: Markings.2.2
+    100378: Markings.3
+    100380: Markings.4
+    100382: Markings.5
+    100384: Markings.6
+    100386: Markings.7
+    100388: Markings.8
+    100390: Marks
+    100392: Meshes
+    100394: Null center.1
+    100396: Null center.1.2
+    100398: Null center.1.3
+    100400: Null Wing Center
+    100402: Null Wing Center.2
+    100404: Null.2
+    100406: Null.2.2
+    100408: Null.2.3
+    100410: Null.2.4
+    100412: Null.3
+    100414: Null.3.2
+    100416: Null.4
+    100418: Null.4.2
+    100420: Null.5
+    100422: Null.5.2
+    100424: Null.6
+    100426: Null.7
+    100428: Null.7.2
+    100430: Polygon
+    100432: Polygon.1
+    100434: Polygon.2
+    100436: Propeller
+    100438: Propeller blades
+    100440: Rear gear leg control 2
+    100442: Rear gear leg control 3
+    100444: Rudder
+    100446: Rudder Control
+    100448: Rudder pedal L
+    100450: Rudder pedal R
+    100452: Rudder pedals
+    100454: Second gear control
+    100456: Second gear control.2
+    100458: Shell exit
+    100460: Shell exit.2
+    100462: Small Arrow
+    100464: Small Arrow.2
+    100466: Small Arrow.3
+    100468: Small Arrow.4
+    100470: Sphere
+    100472: Tempest fuselage.1
+    100474: Torus
+    100476: Tube
+    100478: Tube.1
+    100480: Tube.2
+    100482: Wheel
+    100484: Wheel chamber
+    100486: Wheel chamber.2
+    100488: Wheel.2
+    100490: Windshield
+    100492: Wing
+    100494: Wing.2
+    400000: aileron gap
+    400002: aileron gap.2
+    400004: Aileron L
+    400006: Aileron R
+    400008: Altitude indicator
+    400010: Altitude indicator.1
+    400012: Altitude indicator.2
+    400014: Array
+    400016: Arrow
+    400018: Arrow.2
+    400020: Arrow.3
+    400022: Artificial horizon indication
+    400024: Artificial horizon indicator
+    400026: Back wheel door
+    400028: Back wheel door.1
+    400030: Back wing.1
+    400032: Back wing.1.2
+    400034: Background
+    400036: Boards
+    400038: Bullet exit
+    400040: Cannons
+    400042: Canopy frame
+    400044: Cap 2
+    400046: Cap 2.1
+    400048: Cap 2.2
+    400050: Cap 2.3
+    400052: Caqnopy rails
+    400054: Center indication
+    400056: Climb indicator.1
+    400058: Cockpit
+    400060: Cockpit + windshield
+    400062: Cockpit instruments
+    400064: Cone
+    400066: Cone.2
+    400068: Cone.2.2
+    400070: Cone.2.3
+    400072: Cone.2.4
+    400074: Cone.3
+    400076: Cone.4
+    400078: Control stick
+    400080: Cube
+    400082: Cube.1
+    400084: Cube.1.2
+    400086: Cube.1.3
+    400088: Cube.1.4
+    400090: Cube.1.5
+    400092: Cube.10
+    400094: Cube.11
+    400096: Cube.2
+    400098: Cube.2.2
+    400100: Cube.2.3
+    400102: Cube.3
+    400104: Cube.3.2
+    400106: Cube.4
+    400108: Cube.4.2
+    400110: Cube.4.3
+    400112: Cube.5
+    400114: Cube.5.2
+    400116: Cube.6
+    400118: Cube.7
+    400120: Cube.8
+    400122: Cube.9
+    400124: Cylinder
+    400126: Cylinder 2
+    400128: Cylinder 2.1
+    400130: Cylinder.1
+    400132: Cylinder.1.10
+    400134: Cylinder.1.11
+    400136: Cylinder.1.12
+    400138: Cylinder.1.13
+    400140: Cylinder.1.2
+    400142: Cylinder.1.3
+    400144: Cylinder.1.4
+    400146: Cylinder.1.5
+    400148: Cylinder.1.6
+    400150: Cylinder.1.7
+    400152: Cylinder.1.8
+    400154: Cylinder.1.9
+    400156: Cylinder.10
+    400158: Cylinder.10.2
+    400160: Cylinder.10.3
+    400162: Cylinder.10.4
+    400164: Cylinder.12
+    400166: Cylinder.12.2
+    400168: Cylinder.12.3
+    400170: Cylinder.13
+    400172: Cylinder.13.2
+    400174: Cylinder.2
+    400176: Cylinder.2.10
+    400178: Cylinder.2.2
+    400180: Cylinder.2.3
+    400182: Cylinder.2.4
+    400184: Cylinder.2.5
+    400186: Cylinder.2.6
+    400188: Cylinder.2.7
+    400190: Cylinder.2.8
+    400192: Cylinder.2.9
+    400194: Cylinder.3
+    400196: Cylinder.3.10
+    400198: Cylinder.3.2
+    400200: Cylinder.3.3
+    400202: Cylinder.3.4
+    400204: Cylinder.3.5
+    400206: Cylinder.3.6
+    400208: Cylinder.3.7
+    400210: Cylinder.3.8
+    400212: Cylinder.3.9
+    400214: Cylinder.4
+    400216: Cylinder.4.2
+    400218: Cylinder.4.3
+    400220: Cylinder.4.4
+    400222: Cylinder.5
+    400224: Cylinder.5.2
+    400226: Cylinder.5.3
+    400228: Cylinder.5.4
+    400230: Cylinder.5.5
+    400232: Cylinder.6
+    400234: Cylinder.6.2
+    400236: Cylinder.6.3
+    400238: Cylinder.7
+    400240: Cylinder.7.2
+    400242: Cylinder.7.3
+    400244: Cylinder.8
+    400246: Cylinder.8.2
+    400248: Cylinder.8.3
+    400250: Cylinder.9
+    400252: Cylinder.9.2
+    400254: Cylinder.9.3
+    400256: Digits
+    400258: Direction indicator
+    400260: Disc
+    400262: Elevator L
+    400264: Elevator R
+    400266: Exhaust gap
+    400268: Extrude NURBS.1
+    400270: Extrude NURBS.5
+    400272: First Gear Control
+    400274: First Gear Control.2
+    400276: flap gap
+    400278: flap gap.2
+    400280: flap gap.3
+    400282: flap gap.4
+    400284: Flaps 1
+    400286: Flaps 1.2
+    400288: Flaps 2
+    400290: Flaps 2.2
+    400292: Gear down lights
+    400294: gear mesh
+    400296: gear mesh.2
+    400298: gear mesh.3
+    400300: gear mesh.4
+    400302: gear mesh.5
+    400304: gear mesh.6
+    400306: gear mesh.7
+    400308: gear mesh.8
+    400310: gear rigged joints
+    400312: gear rigged joints.2
+    400314: gear rigged joints.3
+    400316: gear rigged joints.4
+    400318: Gear up lights
+    400320: //RootNode
+    400322: Hawker tempest mk.V
+    400324: HyperNURBS
+    400326: HyperNURBS.1
+    400328: HyperNURBS.3
+    400330: HyperNURBS.4
+    400332: HyperNURBS.5
+    400334: HyperNURBS.6
+    400336: Indicator
+    400338: Indicator.1
+    400340: Joint.1
+    400342: Joint.1.2
+    400344: Joint.1.3
+    400346: Joint.1.4
+    400348: Joint.1.Goal
+    400350: Joint.1.Goal.2
+    400352: Joint.2
+    400354: Joint.2.2
+    400356: Joint.2.Goal
+    400358: Joint.2.Goal.2
+    400360: L < > R indicator
+    400362: L R
+    400364: Landing gear door
+    400366: Landing gear door.2
+    400368: Landing gear door.3
+    400370: Landing gear door.4
+    400372: Markings
+    400374: Markings.2
+    400376: Markings.2.2
+    400378: Markings.3
+    400380: Markings.4
+    400382: Markings.5
+    400384: Markings.6
+    400386: Markings.7
+    400388: Markings.8
+    400390: Marks
+    400392: Meshes
+    400394: Null center.1
+    400396: Null center.1.2
+    400398: Null center.1.3
+    400400: Null Wing Center
+    400402: Null Wing Center.2
+    400404: Null.2
+    400406: Null.2.2
+    400408: Null.2.3
+    400410: Null.2.4
+    400412: Null.3
+    400414: Null.3.2
+    400416: Null.4
+    400418: Null.4.2
+    400420: Null.5
+    400422: Null.5.2
+    400424: Null.6
+    400426: Null.7
+    400428: Null.7.2
+    400430: Polygon
+    400432: Polygon.1
+    400434: Polygon.2
+    400436: Propeller
+    400438: Propeller blades
+    400440: Rear gear leg control 2
+    400442: Rear gear leg control 3
+    400444: Rudder
+    400446: Rudder Control
+    400448: Rudder pedal L
+    400450: Rudder pedal R
+    400452: Rudder pedals
+    400454: Second gear control
+    400456: Second gear control.2
+    400458: Shell exit
+    400460: Shell exit.2
+    400462: Small Arrow
+    400464: Small Arrow.2
+    400466: Small Arrow.3
+    400468: Small Arrow.4
+    400470: Sphere
+    400472: Tempest fuselage.1
+    400474: Torus
+    400476: Tube
+    400478: Tube.1
+    400480: Tube.2
+    400482: Wheel
+    400484: Wheel chamber
+    400486: Wheel chamber.2
+    400488: Wheel.2
+    400490: Windshield
+    400492: Wing
+    400494: Wing.2
+    2300000: aileron gap
+    2300002: aileron gap.2
+    2300004: Aileron L
+    2300006: Aileron R
+    2300008: Altitude indicator
+    2300010: Altitude indicator.1
+    2300012: Altitude indicator.2
+    2300014: Array
+    2300016: Arrow
+    2300018: Arrow.2
+    2300020: Arrow.3
+    2300022: Artificial horizon indication
+    2300024: Artificial horizon indicator
+    2300026: Back wheel door
+    2300028: Back wheel door.1
+    2300030: Back wing.1
+    2300032: Back wing.1.2
+    2300034: Background
+    2300036: Bullet exit
+    2300038: Cannons
+    2300040: Canopy frame
+    2300042: Cap 2
+    2300044: Cap 2.1
+    2300046: Cap 2.2
+    2300048: Cap 2.3
+    2300050: Caqnopy rails
+    2300052: Center indication
+    2300054: Climb indicator.1
+    2300056: Cockpit
+    2300058: Cockpit + windshield
+    2300060: Cone
+    2300062: Cone.2
+    2300064: Cone.2.2
+    2300066: Cone.2.3
+    2300068: Cone.2.4
+    2300070: Cone.3
+    2300072: Cone.4
+    2300074: Control stick
+    2300076: Cube
+    2300078: Cube.1
+    2300080: Cube.1.2
+    2300082: Cube.1.3
+    2300084: Cube.1.4
+    2300086: Cube.1.5
+    2300088: Cube.10
+    2300090: Cube.11
+    2300092: Cube.2
+    2300094: Cube.2.2
+    2300096: Cube.2.3
+    2300098: Cube.3
+    2300100: Cube.3.2
+    2300102: Cube.4
+    2300104: Cube.4.2
+    2300106: Cube.4.3
+    2300108: Cube.5
+    2300110: Cube.5.2
+    2300112: Cube.6
+    2300114: Cube.7
+    2300116: Cube.8
+    2300118: Cube.9
+    2300120: Cylinder
+    2300122: Cylinder 2
+    2300124: Cylinder 2.1
+    2300126: Cylinder.1
+    2300128: Cylinder.1.10
+    2300130: Cylinder.1.11
+    2300132: Cylinder.1.12
+    2300134: Cylinder.1.13
+    2300136: Cylinder.1.2
+    2300138: Cylinder.1.3
+    2300140: Cylinder.1.4
+    2300142: Cylinder.1.5
+    2300144: Cylinder.1.6
+    2300146: Cylinder.1.7
+    2300148: Cylinder.1.8
+    2300150: Cylinder.1.9
+    2300152: Cylinder.10
+    2300154: Cylinder.10.2
+    2300156: Cylinder.10.3
+    2300158: Cylinder.10.4
+    2300160: Cylinder.12
+    2300162: Cylinder.12.2
+    2300164: Cylinder.12.3
+    2300166: Cylinder.13
+    2300168: Cylinder.13.2
+    2300170: Cylinder.2
+    2300172: Cylinder.2.10
+    2300174: Cylinder.2.2
+    2300176: Cylinder.2.3
+    2300178: Cylinder.2.4
+    2300180: Cylinder.2.5
+    2300182: Cylinder.2.6
+    2300184: Cylinder.2.7
+    2300186: Cylinder.2.8
+    2300188: Cylinder.2.9
+    2300190: Cylinder.3
+    2300192: Cylinder.3.10
+    2300194: Cylinder.3.2
+    2300196: Cylinder.3.3
+    2300198: Cylinder.3.4
+    2300200: Cylinder.3.5
+    2300202: Cylinder.3.6
+    2300204: Cylinder.3.7
+    2300206: Cylinder.3.8
+    2300208: Cylinder.3.9
+    2300210: Cylinder.4
+    2300212: Cylinder.4.2
+    2300214: Cylinder.4.3
+    2300216: Cylinder.4.4
+    2300218: Cylinder.5
+    2300220: Cylinder.5.2
+    2300222: Cylinder.5.3
+    2300224: Cylinder.5.4
+    2300226: Cylinder.5.5
+    2300228: Cylinder.6
+    2300230: Cylinder.6.2
+    2300232: Cylinder.6.3
+    2300234: Cylinder.7
+    2300236: Cylinder.7.2
+    2300238: Cylinder.7.3
+    2300240: Cylinder.8
+    2300242: Cylinder.8.2
+    2300244: Cylinder.8.3
+    2300246: Cylinder.9
+    2300248: Cylinder.9.2
+    2300250: Cylinder.9.3
+    2300252: Digits
+    2300254: Direction indicator
+    2300256: Disc
+    2300258: Elevator L
+    2300260: Elevator R
+    2300262: Exhaust gap
+    2300264: Extrude NURBS.1
+    2300266: Extrude NURBS.5
+    2300268: First Gear Control
+    2300270: First Gear Control.2
+    2300272: flap gap
+    2300274: flap gap.2
+    2300276: flap gap.3
+    2300278: flap gap.4
+    2300280: Flaps 1
+    2300282: Flaps 1.2
+    2300284: Flaps 2
+    2300286: Flaps 2.2
+    2300288: Gear down lights
+    2300290: gear mesh
+    2300292: gear mesh.2
+    2300294: gear mesh.3
+    2300296: gear mesh.4
+    2300298: gear mesh.5
+    2300300: gear mesh.6
+    2300302: gear mesh.7
+    2300304: gear mesh.8
+    2300306: Gear up lights
+    2300308: HyperNURBS
+    2300310: HyperNURBS.1
+    2300312: HyperNURBS.3
+    2300314: HyperNURBS.4
+    2300316: HyperNURBS.5
+    2300318: HyperNURBS.6
+    2300320: Indicator
+    2300322: Indicator.1
+    2300324: L < > R indicator
+    2300326: L R
+    2300328: Landing gear door
+    2300330: Landing gear door.2
+    2300332: Landing gear door.3
+    2300334: Landing gear door.4
+    2300336: Markings
+    2300338: Markings.2
+    2300340: Markings.2.2
+    2300342: Markings.3
+    2300344: Markings.4
+    2300346: Markings.5
+    2300348: Markings.6
+    2300350: Markings.7
+    2300352: Markings.8
+    2300354: Marks
+    2300356: Null.2.2
+    2300358: Null.3
+    2300360: Null.4
+    2300362: Null.4.2
+    2300364: Null.5
+    2300366: Null.5.2
+    2300368: Null.6
+    2300370: Null.7
+    2300372: Null.7.2
+    2300374: Polygon
+    2300376: Polygon.1
+    2300378: Polygon.2
+    2300380: Propeller
+    2300382: Rear gear leg control 2
+    2300384: Rear gear leg control 3
+    2300386: Rudder
+    2300388: Rudder pedal L
+    2300390: Rudder pedal R
+    2300392: Second gear control
+    2300394: Second gear control.2
+    2300396: Shell exit
+    2300398: Shell exit.2
+    2300400: Small Arrow
+    2300402: Small Arrow.2
+    2300404: Small Arrow.3
+    2300406: Small Arrow.4
+    2300408: Sphere
+    2300410: Tempest fuselage.1
+    2300412: Torus
+    2300414: Tube
+    2300416: Tube.1
+    2300418: Tube.2
+    2300420: Wheel
+    2300422: Wheel chamber
+    2300424: Wheel chamber.2
+    2300426: Wheel.2
+    2300428: Windshield
+    2300430: Wing
+    2300432: Wing.2
+    3300000: aileron gap
+    3300002: aileron gap.2
+    3300004: Aileron L
+    3300006: Aileron R
+    3300008: Altitude indicator
+    3300010: Altitude indicator.1
+    3300012: Altitude indicator.2
+    3300014: Array
+    3300016: Arrow
+    3300018: Arrow.2
+    3300020: Arrow.3
+    3300022: Artificial horizon indication
+    3300024: Artificial horizon indicator
+    3300026: Back wheel door
+    3300028: Back wheel door.1
+    3300030: Back wing.1
+    3300032: Back wing.1.2
+    3300034: Background
+    3300036: Bullet exit
+    3300038: Cannons
+    3300040: Canopy frame
+    3300042: Cap 2
+    3300044: Cap 2.1
+    3300046: Cap 2.2
+    3300048: Cap 2.3
+    3300050: Caqnopy rails
+    3300052: Center indication
+    3300054: Climb indicator.1
+    3300056: Cockpit
+    3300058: Cockpit + windshield
+    3300060: Cone
+    3300062: Cone.2
+    3300064: Cone.2.2
+    3300066: Cone.2.3
+    3300068: Cone.2.4
+    3300070: Cone.3
+    3300072: Cone.4
+    3300074: Control stick
+    3300076: Cube
+    3300078: Cube.1
+    3300080: Cube.1.2
+    3300082: Cube.1.3
+    3300084: Cube.1.4
+    3300086: Cube.1.5
+    3300088: Cube.10
+    3300090: Cube.11
+    3300092: Cube.2
+    3300094: Cube.2.2
+    3300096: Cube.2.3
+    3300098: Cube.3
+    3300100: Cube.3.2
+    3300102: Cube.4
+    3300104: Cube.4.2
+    3300106: Cube.4.3
+    3300108: Cube.5
+    3300110: Cube.5.2
+    3300112: Cube.6
+    3300114: Cube.7
+    3300116: Cube.8
+    3300118: Cube.9
+    3300120: Cylinder
+    3300122: Cylinder 2
+    3300124: Cylinder 2.1
+    3300126: Cylinder.1
+    3300128: Cylinder.1.10
+    3300130: Cylinder.1.11
+    3300132: Cylinder.1.12
+    3300134: Cylinder.1.13
+    3300136: Cylinder.1.2
+    3300138: Cylinder.1.3
+    3300140: Cylinder.1.4
+    3300142: Cylinder.1.5
+    3300144: Cylinder.1.6
+    3300146: Cylinder.1.7
+    3300148: Cylinder.1.8
+    3300150: Cylinder.1.9
+    3300152: Cylinder.10
+    3300154: Cylinder.10.2
+    3300156: Cylinder.10.3
+    3300158: Cylinder.10.4
+    3300160: Cylinder.12
+    3300162: Cylinder.12.2
+    3300164: Cylinder.12.3
+    3300166: Cylinder.13
+    3300168: Cylinder.13.2
+    3300170: Cylinder.2
+    3300172: Cylinder.2.10
+    3300174: Cylinder.2.2
+    3300176: Cylinder.2.3
+    3300178: Cylinder.2.4
+    3300180: Cylinder.2.5
+    3300182: Cylinder.2.6
+    3300184: Cylinder.2.7
+    3300186: Cylinder.2.8
+    3300188: Cylinder.2.9
+    3300190: Cylinder.3
+    3300192: Cylinder.3.10
+    3300194: Cylinder.3.2
+    3300196: Cylinder.3.3
+    3300198: Cylinder.3.4
+    3300200: Cylinder.3.5
+    3300202: Cylinder.3.6
+    3300204: Cylinder.3.7
+    3300206: Cylinder.3.8
+    3300208: Cylinder.3.9
+    3300210: Cylinder.4
+    3300212: Cylinder.4.2
+    3300214: Cylinder.4.3
+    3300216: Cylinder.4.4
+    3300218: Cylinder.5
+    3300220: Cylinder.5.2
+    3300222: Cylinder.5.3
+    3300224: Cylinder.5.4
+    3300226: Cylinder.5.5
+    3300228: Cylinder.6
+    3300230: Cylinder.6.2
+    3300232: Cylinder.6.3
+    3300234: Cylinder.7
+    3300236: Cylinder.7.2
+    3300238: Cylinder.7.3
+    3300240: Cylinder.8
+    3300242: Cylinder.8.2
+    3300244: Cylinder.8.3
+    3300246: Cylinder.9
+    3300248: Cylinder.9.2
+    3300250: Cylinder.9.3
+    3300252: Digits
+    3300254: Direction indicator
+    3300256: Disc
+    3300258: Elevator L
+    3300260: Elevator R
+    3300262: Exhaust gap
+    3300264: Extrude NURBS.1
+    3300266: Extrude NURBS.5
+    3300268: First Gear Control
+    3300270: First Gear Control.2
+    3300272: flap gap
+    3300274: flap gap.2
+    3300276: flap gap.3
+    3300278: flap gap.4
+    3300280: Flaps 1
+    3300282: Flaps 1.2
+    3300284: Flaps 2
+    3300286: Flaps 2.2
+    3300288: Gear down lights
+    3300290: gear mesh
+    3300292: gear mesh.2
+    3300294: gear mesh.3
+    3300296: gear mesh.4
+    3300298: gear mesh.5
+    3300300: gear mesh.6
+    3300302: gear mesh.7
+    3300304: gear mesh.8
+    3300306: Gear up lights
+    3300308: HyperNURBS
+    3300310: HyperNURBS.1
+    3300312: HyperNURBS.3
+    3300314: HyperNURBS.4
+    3300316: HyperNURBS.5
+    3300318: HyperNURBS.6
+    3300320: Indicator
+    3300322: Indicator.1
+    3300324: L < > R indicator
+    3300326: L R
+    3300328: Landing gear door
+    3300330: Landing gear door.2
+    3300332: Landing gear door.3
+    3300334: Landing gear door.4
+    3300336: Markings
+    3300338: Markings.2
+    3300340: Markings.2.2
+    3300342: Markings.3
+    3300344: Markings.4
+    3300346: Markings.5
+    3300348: Markings.6
+    3300350: Markings.7
+    3300352: Markings.8
+    3300354: Marks
+    3300356: Null.2.2
+    3300358: Null.3
+    3300360: Null.4
+    3300362: Null.4.2
+    3300364: Null.5
+    3300366: Null.5.2
+    3300368: Null.6
+    3300370: Null.7
+    3300372: Null.7.2
+    3300374: Polygon
+    3300376: Polygon.1
+    3300378: Polygon.2
+    3300380: Propeller
+    3300382: Rear gear leg control 2
+    3300384: Rear gear leg control 3
+    3300386: Rudder
+    3300388: Rudder pedal L
+    3300390: Rudder pedal R
+    3300392: Second gear control
+    3300394: Second gear control.2
+    3300396: Shell exit
+    3300398: Shell exit.2
+    3300400: Small Arrow
+    3300402: Small Arrow.2
+    3300404: Small Arrow.3
+    3300406: Small Arrow.4
+    3300408: Sphere
+    3300410: Tempest fuselage.1
+    3300412: Torus
+    3300414: Tube
+    3300416: Tube.1
+    3300418: Tube.2
+    3300420: Wheel
+    3300422: Wheel chamber
+    3300424: Wheel chamber.2
+    3300426: Wheel.2
+    3300428: Windshield
+    3300430: Wing
+    3300432: Wing.2
+    4300000: Extrude NURBS.1
+    4300002: Control stick
+    4300004: Null.7
+    4300006: Null.6
+    4300008: Null.5
+    4300010: Null.4
+    4300012: Null.3
+    4300014: Cylinder.3
+    4300016: Cylinder.2
+    4300018: Cylinder
+    4300020: Cylinder.2.2
+    4300022: Cylinder.3.2
+    4300024: Cylinder.4
+    4300026: Cylinder.5
+    4300028: Cylinder.1
+    4300030: Cylinder.6
+    4300032: Cylinder.7
+    4300034: Cube
+    4300036: Cube.2
+    4300038: Cube.3
+    4300040: Cube.4
+    4300042: Cube.5
+    4300044: Cube.6
+    4300046: Cube.7
+    4300048: Cylinder.4.2
+    4300050: Cylinder.3.3
+    4300052: Cylinder.1.2
+    4300054: Cylinder.2.3
+    4300056: Cylinder.8
+    4300058: Cylinder.12
+    4300060: Cylinder.5.2
+    4300062: Cube.5.2
+    4300064: Cylinder.4.3
+    4300066: Cube.4.2
+    4300068: Cylinder.3.4
+    4300070: Cube.3.2
+    4300072: Cylinder.2.4
+    4300074: Cube.2.2
+    4300076: Cylinder.1.3
+    4300078: Cube.1
+    4300080: Cube.8
+    4300082: Cylinder.9
+    4300084: Cube.9
+    4300086: Indicator.1
+    4300088: Cylinder.1.4
+    4300090: Markings
+    4300092: Climb indicator.1
+    4300094: Cylinder.1.5
+    4300096: Markings.2
+    4300098: Digits
+    4300100: Altitude indicator.2
+    4300102: Markings.3
+    4300104: Small Arrow
+    4300106: Altitude indicator.1
+    4300108: Markings.2.2
+    4300110: Arrow
+    4300112: Small Arrow.2
+    4300114: Altitude indicator
+    4300116: Markings.4
+    4300118: Arrow.2
+    4300120: Small Arrow.3
+    4300122: Direction indicator
+    4300124: Sphere
+    4300126: Markings.5
+    4300128: Background
+    4300130: L < > R indicator
+    4300132: Small Arrow.4
+    4300134: Arrow.3
+    4300136: L R
+    4300138: Markings.6
+    4300140: Indicator
+    4300142: Cylinder.1.6
+    4300144: Markings.7
+    4300146: Cylinder 2
+    4300148: Cylinder.1.7
+    4300150: Markings.8
+    4300152: Extrude NURBS.5
+    4300154: Array
+    4300156: Artificial horizon indicator
+    4300158: Marks
+    4300160: Center indication
+    4300162: Artificial horizon indication
+    4300164: Cap 2
+    4300166: Cap 2.1
+    4300168: Cap 2.2
+    4300170: Cap 2.3
+    4300172: Cylinder 2.1
+    4300174: Gear down lights
+    4300176: Gear up lights
+    4300178: Cone
+    4300180: Cylinder.3.5
+    4300182: Cylinder.2.5
+    4300184: Cylinder.1.8
+    4300186: Cone.2
+    4300188: Cylinder.3.6
+    4300190: Cylinder.2.6
+    4300192: Cylinder.1.9
+    4300194: Cone.3
+    4300196: Cylinder.3.7
+    4300198: Cylinder.2.7
+    4300200: Cylinder.1.10
+    4300202: Cone.4
+    4300204: Cylinder.3.8
+    4300206: Cylinder.2.8
+    4300208: Cylinder.1.11
+    4300210: Cube.1.2
+    4300212: Polygon.2
+    4300214: Cylinder.13
+    4300216: Cylinder.12.2
+    4300218: Cylinder.1.12
+    4300220: Cube.10
+    4300222: Cube.2.3
+    4300224: Cylinder.5.3
+    4300226: Cylinder.4.4
+    4300228: Polygon.1
+    4300230: Cylinder.13.2
+    4300232: Cylinder.12.3
+    4300234: Cylinder.1.13
+    4300236: Cylinder.10
+    4300238: Cube.1.3
+    4300240: Cube.1.4
+    4300242: Cube.1.5
+    4300244: Cube.11
+    4300246: Cockpit + windshield
+    4300248: Polygon
+    4300250: Cube.4.3
+    4300252: Propeller
+    4300254: Disc
+    4300256: Null.7.2
+    4300258: Null.2.2
+    4300260: Null.4.2
+    4300262: Null.5.2
+    4300264: Rear gear leg control 2
+    4300266: Rear gear leg control 3
+    4300268: Wheel
+    4300270: Cylinder.10.2
+    4300272: Cone.2.2
+    4300274: Back wheel door.1
+    4300276: Back wheel door
+    4300278: Flaps 2
+    4300280: Flaps 1
+    4300282: Flaps 2.2
+    4300284: Flaps 1.2
+    4300286: Aileron R
+    4300288: Aileron L
+    4300290: Elevator R
+    4300292: Elevator L
+    4300294: Rudder
+    4300296: First Gear Control
+    4300298: Second gear control
+    4300300: Cylinder.2.9
+    4300302: Cylinder.3.9
+    4300304: Torus
+    4300306: Cylinder.10.3
+    4300308: Cone.2.3
+    4300310: gear mesh
+    4300312: gear mesh.2
+    4300314: gear mesh.3
+    4300316: gear mesh.4
+    4300318: Cylinder.9.2
+    4300320: Cylinder.5.4
+    4300322: Cylinder.6.2
+    4300324: Cylinder.8.2
+    4300326: Cylinder.7.2
+    4300328: First Gear Control.2
+    4300330: Second gear control.2
+    4300332: Cylinder.2.10
+    4300334: Cylinder.3.10
+    4300336: Wheel.2
+    4300338: Cylinder.10.4
+    4300340: Cone.2.4
+    4300342: gear mesh.5
+    4300344: gear mesh.6
+    4300346: gear mesh.7
+    4300348: gear mesh.8
+    4300350: Cylinder.9.3
+    4300352: Cylinder.5.5
+    4300354: Cylinder.6.3
+    4300356: Cylinder.8.3
+    4300358: Cylinder.7.3
+    4300360: Landing gear door
+    4300362: Landing gear door.2
+    4300364: Landing gear door.3
+    4300366: Tempest fuselage.1
+    4300368: Exhaust gap
+    4300370: Wing
+    4300372: Wing.2
+    4300374: Back wing.1
+    4300376: Back wing.1.2
+    4300378: Windshield
+    4300380: Caqnopy rails
+    4300382: Canopy frame
+    4300384: Cockpit
+    4300386: Rudder pedal R
+    4300388: Rudder pedal L
+    4300390: HyperNURBS.6
+    4300392: HyperNURBS.5
+    4300394: HyperNURBS.4
+    4300396: HyperNURBS.3
+    4300398: HyperNURBS.1
+    4300400: HyperNURBS
+    4300402: Tube.2
+    4300404: Tube.1
+    4300406: Tube
+    4300408: Cannons
+    4300410: Bullet exit
+    4300412: flap gap
+    4300414: flap gap.2
+    4300416: flap gap.3
+    4300418: flap gap.4
+    4300420: aileron gap
+    4300422: aileron gap.2
+    4300424: Shell exit
+    4300426: Shell exit.2
+    4300428: Landing gear door.4
+    4300430: Wheel chamber
+    4300432: Wheel chamber.2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 0e229c10e9f2d6f43ae89a4ffdbd115c
+timeCreated: 1483305952
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BACK_GIZ
+    100002: BLACK_M0
+    100004: BLACK_M1
+    100006: CANOPY_B
+    100008: CONTROL_
+    100010: ENGINE_0
+    100012: ENGINE_1
+    100014: ENGINE_2
+    100016: ENGINE_3
+    100018: HULL_BO0
+    100020: HULL_BO1
+    100022: HULL_SI0
+    100024: HULL_SI1
+    100026: HULL_SI2
+    100028: HULL_SI3
+    100030: HULL_SI4
+    100032: HULL_SI5
+    100034: HULL_SI6
+    100036: HULL_SI7
+    100038: HULL_SI8
+    100040: HULL_SI9
+    100042: INTAKE0
+    100044: INTAKE1
+    100046: LASER0
+    100048: LASER1
+    100050: //RootNode
+    100052: TOP_GIZM
+    100054: WINDOW0
+    100056: WINDOW1
+    100058: WING_TOP
+    400000: BACK_GIZ
+    400002: BLACK_M0
+    400004: BLACK_M1
+    400006: CANOPY_B
+    400008: CONTROL_
+    400010: ENGINE_0
+    400012: ENGINE_1
+    400014: ENGINE_2
+    400016: ENGINE_3
+    400018: HULL_BO0
+    400020: HULL_BO1
+    400022: HULL_SI0
+    400024: HULL_SI1
+    400026: HULL_SI2
+    400028: HULL_SI3
+    400030: HULL_SI4
+    400032: HULL_SI5
+    400034: HULL_SI6
+    400036: HULL_SI7
+    400038: HULL_SI8
+    400040: HULL_SI9
+    400042: INTAKE0
+    400044: INTAKE1
+    400046: LASER0
+    400048: LASER1
+    400050: //RootNode
+    400052: TOP_GIZM
+    400054: WINDOW0
+    400056: WINDOW1
+    400058: WING_TOP
+    2300000: BACK_GIZ
+    2300002: BLACK_M0
+    2300004: BLACK_M1
+    2300006: CANOPY_B
+    2300008: CONTROL_
+    2300010: ENGINE_0
+    2300012: ENGINE_1
+    2300014: ENGINE_2
+    2300016: ENGINE_3
+    2300018: HULL_BO0
+    2300020: HULL_BO1
+    2300022: HULL_SI0
+    2300024: HULL_SI1
+    2300026: HULL_SI2
+    2300028: HULL_SI3
+    2300030: HULL_SI4
+    2300032: HULL_SI5
+    2300034: HULL_SI6
+    2300036: HULL_SI7
+    2300038: HULL_SI8
+    2300040: HULL_SI9
+    2300042: INTAKE0
+    2300044: INTAKE1
+    2300046: LASER0
+    2300048: LASER1
+    2300050: TOP_GIZM
+    2300052: WINDOW0
+    2300054: WINDOW1
+    2300056: WING_TOP
+    3300000: BACK_GIZ
+    3300002: BLACK_M0
+    3300004: BLACK_M1
+    3300006: CANOPY_B
+    3300008: CONTROL_
+    3300010: ENGINE_0
+    3300012: ENGINE_1
+    3300014: ENGINE_2
+    3300016: ENGINE_3
+    3300018: HULL_BO0
+    3300020: HULL_BO1
+    3300022: HULL_SI0
+    3300024: HULL_SI1
+    3300026: HULL_SI2
+    3300028: HULL_SI3
+    3300030: HULL_SI4
+    3300032: HULL_SI5
+    3300034: HULL_SI6
+    3300036: HULL_SI7
+    3300038: HULL_SI8
+    3300040: HULL_SI9
+    3300042: INTAKE0
+    3300044: INTAKE1
+    3300046: LASER0
+    3300048: LASER1
+    3300050: TOP_GIZM
+    3300052: WINDOW0
+    3300054: WINDOW1
+    3300056: WING_TOP
+    4300000: HULL_SI0
+    4300002: HULL_BO0
+    4300004: HULL_BO1
+    4300006: BACK_GIZ
+    4300008: TOP_GIZM
+    4300010: HULL_SI1
+    4300012: CONTROL_
+    4300014: HULL_SI2
+    4300016: HULL_SI3
+    4300018: WING_TOP
+    4300020: ENGINE_0
+    4300022: ENGINE_1
+    4300024: LASER0
+    4300026: LASER1
+    4300028: CANOPY_B
+    4300030: WINDOW0
+    4300032: WINDOW1
+    4300034: HULL_SI4
+    4300036: HULL_SI5
+    4300038: ENGINE_2
+    4300040: ENGINE_3
+    4300042: HULL_SI6
+    4300044: HULL_SI7
+    4300046: HULL_SI8
+    4300048: HULL_SI9
+    4300050: INTAKE0
+    4300052: BLACK_M0
+    4300054: INTAKE1
+    4300056: BLACK_M1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 715fb76918d02ff4db3235d020c651fb
+timeCreated: 1483274737
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 15b32452
+    100002: //RootNode
+    100004: 40e76048
+    100006: 4909a30d
+    100008: 8400517f
+    100010: 84dcd0b01
+    100012: 855deac01
+    100014: 855deac03
+    100016: 8e112acf
+    100018: 8e112acf01
+    100020: 9e9b2ee01
+    100022: 9e9b2ee9
+    100024: ab5a4fd4
+    100026: c6b653fd
+    100028: d39e01
+    100030: d39e5512
+    100032: d4fa59ed
+    100034: DrawCall_0
+    100036: e371b52d
+    100038: e6479dea
+    100040: e935492f
+    100042: ea703eac
+    100044: ea703eac 0
+    100046: ea703eac B
+    100048: ea703eac01
+    100050: ea703eac02
+    100052: ea703eac03
+    100054: ea703eac04
+    100056: ea703eac05
+    100058: ea703eac06
+    100060: ea703eac07
+    100062: ea703eac08
+    100064: ea703eac09
+    100066: ea703eac10
+    100068: Object01
+    100070: Object03
+    400000: 15b32452
+    400002: //RootNode
+    400004: 40e76048
+    400006: 4909a30d
+    400008: 8400517f
+    400010: 84dcd0b01
+    400012: 855deac01
+    400014: 855deac03
+    400016: 8e112acf
+    400018: 8e112acf01
+    400020: 9e9b2ee01
+    400022: 9e9b2ee9
+    400024: ab5a4fd4
+    400026: c6b653fd
+    400028: d39e01
+    400030: d39e5512
+    400032: d4fa59ed
+    400034: DrawCall_0
+    400036: e371b52d
+    400038: e6479dea
+    400040: e935492f
+    400042: ea703eac
+    400044: ea703eac 0
+    400046: ea703eac B
+    400048: ea703eac01
+    400050: ea703eac02
+    400052: ea703eac03
+    400054: ea703eac04
+    400056: ea703eac05
+    400058: ea703eac06
+    400060: ea703eac07
+    400062: ea703eac08
+    400064: ea703eac09
+    400066: ea703eac10
+    400068: Object01
+    400070: Object03
+    2300000: 15b32452
+    2300002: 40e76048
+    2300004: 4909a30d
+    2300006: 8400517f
+    2300008: 84dcd0b01
+    2300010: 855deac01
+    2300012: 855deac03
+    2300014: 8e112acf
+    2300016: 8e112acf01
+    2300018: 9e9b2ee01
+    2300020: 9e9b2ee9
+    2300022: ab5a4fd4
+    2300024: c6b653fd
+    2300026: d39e01
+    2300028: d39e5512
+    2300030: d4fa59ed
+    2300032: DrawCall_0
+    2300034: e371b52d
+    2300036: e6479dea
+    2300038: e935492f
+    2300040: ea703eac
+    2300042: ea703eac 0
+    2300044: ea703eac B
+    2300046: ea703eac01
+    2300048: ea703eac02
+    2300050: ea703eac03
+    2300052: ea703eac04
+    2300054: ea703eac05
+    2300056: ea703eac06
+    2300058: ea703eac07
+    2300060: ea703eac08
+    2300062: ea703eac09
+    2300064: ea703eac10
+    2300066: Object01
+    2300068: Object03
+    3300000: 15b32452
+    3300002: 40e76048
+    3300004: 4909a30d
+    3300006: 8400517f
+    3300008: 84dcd0b01
+    3300010: 855deac01
+    3300012: 855deac03
+    3300014: 8e112acf
+    3300016: 8e112acf01
+    3300018: 9e9b2ee01
+    3300020: 9e9b2ee9
+    3300022: ab5a4fd4
+    3300024: c6b653fd
+    3300026: d39e01
+    3300028: d39e5512
+    3300030: d4fa59ed
+    3300032: DrawCall_0
+    3300034: e371b52d
+    3300036: e6479dea
+    3300038: e935492f
+    3300040: ea703eac
+    3300042: ea703eac 0
+    3300044: ea703eac B
+    3300046: ea703eac01
+    3300048: ea703eac02
+    3300050: ea703eac03
+    3300052: ea703eac04
+    3300054: ea703eac05
+    3300056: ea703eac06
+    3300058: ea703eac07
+    3300060: ea703eac08
+    3300062: ea703eac09
+    3300064: ea703eac10
+    3300066: Object01
+    3300068: Object03
+    4300000: DrawCall_0
+    4300002: d4fa59ed
+    4300004: 15b32452
+    4300006: 855deac01
+    4300008: 9e9b2ee9
+    4300010: 9e9b2ee01
+    4300012: 8e112acf
+    4300014: e371b52d
+    4300016: e935492f
+    4300018: c6b653fd
+    4300020: d39e5512
+    4300022: 8e112acf01
+    4300024: 40e76048
+    4300026: 8400517f
+    4300028: 4909a30d
+    4300030: e6479dea
+    4300032: ea703eac
+    4300034: ea703eac01
+    4300036: ab5a4fd4
+    4300038: ea703eac02
+    4300040: ea703eac03
+    4300042: ea703eac04
+    4300044: ea703eac05
+    4300046: ea703eac06
+    4300048: ea703eac07
+    4300050: ea703eac08
+    4300052: d39e01
+    4300054: ea703eac09
+    4300056: ea703eac B
+    4300058: ea703eac 0
+    4300060: ea703eac10
+    4300062: Object01
+    4300064: Object03
+    4300066: 855deac03
+    4300068: 84dcd0b01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

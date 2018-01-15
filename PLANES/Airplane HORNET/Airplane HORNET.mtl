@@ -1,0 +1,458 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl FlatBlac
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Seat
+Ka  0.2 0.3 0.1
+Kd  0.2 0.3 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Glass
+Ka  0.1 0.2 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  10.0
+illum 2
+#
+newmtl Darkgrey
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+map_Kd DARKGREY.JPG
+#
+newmtl Blactire
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl SilvDeep
+Ka  0.5 0.4 0.4
+Kd  0.5 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__134 (2) to come 
+#
+newmtl Whitemet
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Steel
+Ka  0.6 0.7 0.7
+Kd  0.6 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__134 done 
+#
+newmtl BlueLigh
+Ka  0.5 0.9 1.0
+Kd  0.5 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  8.0
+illum 2
+#
+# Multi/Sub Material__123 (2) to come 
+#
+newmtl Bottesta
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump ESTABUMP.JPG
+#
+newmtl Estabili
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump ESTABUMP.JPG
+#
+# Multi/Sub Material__123 done 
+#
+newmtl Lighgrey
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+map_Kd LIGHGREY.JPG
+#
+newmtl Whitemet
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl FlatWhit
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.1
+illum 2
+#
+# Multi/Sub Material__112 (4) to come 
+#
+newmtl Topfuse
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump TOPBUMP.JPG
+#
+newmtl Botfuse
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump BOTTBUMP.JPG
+#
+newmtl Fuse2
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Fuselage
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+newmtl SilvDeep1
+Ka  0.5 0.4 0.4
+Kd  0.5 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Grid
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump GRID.JPG
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+newmtl Inlet
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump INLET.JPG
+#
+# Multi/Sub Material__101 (2) to come 
+#
+newmtl Botwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+newmtl Topwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+# Multi/Sub Material__101 done 
+#
+# Multi/Sub Material__90 (2) to come 
+#
+newmtl Botwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+newmtl Topwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+# Multi/Sub Material__90 done 
+#
+# Multi/Sub Material__79 (2) to come 
+#
+newmtl Botwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+newmtl Topwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+# Multi/Sub Material__79 done 
+#
+# Multi/Sub Material__68 (2) to come 
+#
+newmtl Topwing1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+newmtl Botwing1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+# Multi/Sub Material__68 done 
+#
+newmtl Hornfuel
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump FUELBUMP.JPG
+#
+newmtl Ruddleft
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump RUDDBUMP.JPG
+#
+newmtl Rudder
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump RUDDBUMP.JPG
+#
+newmtl Missil2
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump MISSBUM2.JPG
+#
+newmtl Nozzle
+Ka  0.5 0.4 0.4
+Kd  0.5 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+bump -s 40.0 40.0 1.0 LINEBUMP.JPG
+#
+newmtl Missil
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump MISSBUMP.JPG
+#
+newmtl Nozzle2
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.9
+illum 2
+bump -s 12.0 12.0 1.0 LINENOZZ.JPG
+#
+# Multi/Sub Material__57 (2) to come 
+#
+newmtl Botwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+newmtl Topwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+# Multi/Sub Material__57 done 
+#
+# Multi/Sub Material__46 (2) to come 
+#
+newmtl Topwing1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+newmtl Botwing1
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+# Multi/Sub Material__46 done 
+#
+newmtl RedLigh
+Ka  1.0 0.1 0.2
+Kd  1.0 0.1 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  8.0
+illum 2
+#
+newmtl Ruddrigh
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump RUDDBUMP.JPG
+#
+newmtl Steel
+Ka  0.6 0.7 0.7
+Kd  0.6 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Win2
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl Topwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGTBUM.JPG
+#
+newmtl Botwing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump WINGBBUM.JPG
+#
+# Multi/Sub Material__35 done 
+#
+newmtl Weapsupp
+Ka  0.3 0.3 0.4
+Kd  0.3 0.3 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+bump WEAPBUMP.JPG
+#
+# EOF
